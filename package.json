@@ -57,7 +57,7 @@
     "eslint-config-js-joda": "^1.0.0",
     "js-joda": "^1.8.2",
     "json-loader": "^0.5.7",
-    "karma": "^2.0.2",
+    "karma": "^3.0.0",
     "karma-chai-plugins": "^0.9.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-firefox-launcher": "^1.1.0",
