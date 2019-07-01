@@ -1,6 +1,6 @@
 # !This package is deprecated!
 
-The current version has been moved to the js-joda mono repository, see https://github.com/js-joda
+The current version has been moved to the js-joda mono repository, see https://github.com/js-joda/js-joda
 
 # js-joda-timezone
 
