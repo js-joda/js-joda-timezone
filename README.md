@@ -1,3 +1,7 @@
+# !This package is deprecated!
+
+The current version has been moved to the js-joda mono repository, see https://github.com/js-joda
+
 # js-joda-timezone
 
 [![npm version](https://badge.fury.io/js/js-joda-timezone.svg)](https://badge.fury.io/js/js-joda-timezone)
